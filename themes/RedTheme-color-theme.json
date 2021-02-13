@@ -405,7 +405,7 @@
 		"terminal.ansiYellow": "#e5e510",
 		"terminal.border": "#80808059",
 		"terminal.foreground": "#cccccc",
-		"terminal.selectionBackground": "#ffffff40",
+		"terminal.selectionBackground": "#d1000077",
 		"testing.iconErrored": "#f14c4c",
 		"testing.iconFailed": "#f14c4c",
 		"testing.iconPassed": "#73c991",
