@@ -1,0 +1,21 @@
+{
+    "name": "redtheme",
+    "displayName": "RedTheme (pas rouge)",
+    "description": "Theme vscode pour Red",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "RedTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/RedTheme-color-theme.json","semanticHighlighting": true
+            }
+        ]
+    }
+}
